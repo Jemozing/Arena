@@ -1,0 +1,405 @@
+
+actors.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hitman1_gun
+  rotate: false
+  xy: 652, 71
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+hitman1_hold
+  rotate: false
+  xy: 1058, 26
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+hitman1_machine
+  rotate: false
+  xy: 550, 71
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+hitman1_reload
+  rotate: false
+  xy: 824, 26
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+hitman1_silencer
+  rotate: false
+  xy: 231, 71
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+hitman1_stand
+  rotate: false
+  xy: 1149, 71
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+manBlue_gun
+  rotate: false
+  xy: 601, 71
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+manBlue_hold
+  rotate: false
+  xy: 1112, 71
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+manBlue_machine
+  rotate: false
+  xy: 594, 26
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+manBlue_reload
+  rotate: false
+  xy: 880, 71
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+manBlue_silencer
+  rotate: false
+  xy: 175, 71
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+manBlue_stand
+  rotate: false
+  xy: 1167, 26
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+manBrown_gun
+  rotate: false
+  xy: 703, 71
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+manBrown_hold
+  rotate: false
+  xy: 1021, 26
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+manBrown_machine
+  rotate: false
+  xy: 390, 26
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+manBrown_reload
+  rotate: false
+  xy: 839, 71
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+manBrown_silencer
+  rotate: false
+  xy: 173, 26
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+manBrown_stand
+  rotate: false
+  xy: 1219, 71
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+manOld_gun
+  rotate: false
+  xy: 543, 26
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+manOld_hold
+  rotate: false
+  xy: 1095, 26
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+manOld_machine
+  rotate: false
+  xy: 645, 26
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+manOld_reload
+  rotate: false
+  xy: 865, 26
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+manOld_silencer
+  rotate: false
+  xy: 119, 71
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+manOld_stand
+  rotate: false
+  xy: 1132, 26
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+robot1_gun
+  rotate: false
+  xy: 448, 71
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+robot1_hold
+  rotate: false
+  xy: 1075, 71
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+robot1_machine
+  rotate: false
+  xy: 499, 71
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+robot1_reload
+  rotate: false
+  xy: 798, 71
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+robot1_silencer
+  rotate: false
+  xy: 61, 26
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+robot1_stand
+  rotate: false
+  xy: 1184, 71
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+soldier1_gun
+  rotate: false
+  xy: 287, 71
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+soldier1_hold
+  rotate: false
+  xy: 921, 71
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+soldier1_machine
+  rotate: false
+  xy: 341, 71
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+soldier1_reload
+  rotate: false
+  xy: 696, 26
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+soldier1_silencer
+  rotate: false
+  xy: 2, 71
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+soldier1_stand
+  rotate: false
+  xy: 946, 26
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+survivor1_gun
+  rotate: false
+  xy: 395, 71
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+survivor1_hold
+  rotate: false
+  xy: 961, 71
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+survivor1_machine
+  rotate: false
+  xy: 337, 26
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+survivor1_reload
+  rotate: false
+  xy: 740, 26
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+survivor1_silencer
+  rotate: false
+  xy: 61, 71
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+survivor1_stand
+  rotate: false
+  xy: 984, 26
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+weapon_gun
+  rotate: false
+  xy: 2, 2
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+weapon_machine
+  rotate: false
+  xy: 2, 14
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+weapon_silencer
+  rotate: false
+  xy: 1254, 104
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+womanGreen_gun
+  rotate: false
+  xy: 283, 26
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+womanGreen_hold
+  rotate: false
+  xy: 906, 26
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+womanGreen_machine
+  rotate: false
+  xy: 229, 26
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+womanGreen_reload
+  rotate: false
+  xy: 754, 71
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+womanGreen_silencer
+  rotate: false
+  xy: 2, 26
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+womanGreen_stand
+  rotate: false
+  xy: 1000, 71
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+zoimbie1_gun
+  rotate: false
+  xy: 441, 26
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+zoimbie1_hold
+  rotate: false
+  xy: 1038, 71
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+zoimbie1_machine
+  rotate: false
+  xy: 492, 26
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+zoimbie1_reload
+  rotate: false
+  xy: 783, 26
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+zoimbie1_silencer
+  rotate: false
+  xy: 117, 26
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+zoimbie1_stand
+  rotate: false
+  xy: 1202, 26
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
